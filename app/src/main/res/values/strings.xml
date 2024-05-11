@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TheWeatherApp</string>
+    <string name="headlines">Headlines</string>
+    <string name="favorites">Favorites</string>
+    <string name="search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite">Favorite.</string>
+    <string name="headline">Headline.</string>
+    <string name="Search">Search</string>
+</resources>
